@@ -1,1 +1,3 @@
 creating d.txt
+
+learning staching
